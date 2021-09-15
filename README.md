@@ -1,4 +1,4 @@
-# Sync_script
+# Sync_script
 sync script is a little programs that use rsync for sync your file between two local folders
 
 ### How to use
